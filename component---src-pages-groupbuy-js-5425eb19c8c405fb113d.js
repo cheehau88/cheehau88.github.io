@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RdwH:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),u=t.n(a),w=t("C0kZ");e.default=function(){return u.a.createElement(w.a,null)}}}]);
+//# sourceMappingURL=component---src-pages-groupbuy-js-5425eb19c8c405fb113d.js.map
